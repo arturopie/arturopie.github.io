@@ -1,0 +1,67 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Nulogy
+  title-url: https://nulogy.com/
+  date: Nov 2018 - Present
+  subtitle: Software Architect
+  tags:
+    - tag: DDD
+    - tag: AWS
+    - tag: DevOps
+    - tag: React
+    - tag: Rails
+  timeline-side: right
+
+- title: Nulogy
+  title-url: https://nulogy.com/
+  date: Apr 2011 - Nov 2018
+  subtitle: Fullstack Developer
+  tags:
+    - tag: Rails
+    - tag: PostgreSQL
+    - tag: TDD
+    - tag: Extreme Programming
+  timeline-side: left
+
+- title: SuXessPoint Inc.
+  date: Jul 2010 - Jan 2011
+  subtitle: .NET Programmer
+  tags:
+    - tag: C#
+    - tag: .NET
+    - tag: MySQL
+  timeline-side: right
+
+- title: University of Waterloo
+  title-url: http://uwaterloo.ca/
+  date: 2009 - 2013
+  subtitle: B.A. Computer Science
+  tags:
+    - tag: Dean's Honours List
+    - tag: Scholarship
+  timeline-side: left
+
+- title: TRISTAR Caribbean Inc.
+  date: 2006 - 2007
+  subtitle: Database Developer
+  tags:
+    - tag: Visual Basic
+    - tag: Microsoft Access
+  timeline-side: right
